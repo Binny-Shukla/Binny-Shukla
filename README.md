@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data science and completed data analyst
 - 💞️ I’m looking to collaborate on real world case study.
 - 📫 How to reach me through my linkedin account - www.linkedin.com/in/brijesh-shukla-7b31a8330
+-    More Active on Kaggle : https://www.kaggle.com/binnyshukla
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: There is more data than people .
 
