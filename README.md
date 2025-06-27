@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Binny-Shukla pursuing B.tech in Artificial Intelligence & Robotics.
 - 👀 I’m interested in data and its profound powers.
-- 🌱 I’m currently learning data science and completed data analyst
-- 💞️ I’m looking to collaborate on real world case study.
+- 🌱 I’m currently learning HRL
 - 📫 How to reach me through my linkedin account - www.linkedin.com/in/brijesh-shukla-7b31a8330
 -    More Active on Kaggle : https://www.kaggle.com/binnyshukla
 - 😄 Pronouns: he/him.
