@@ -2,7 +2,7 @@
 - 👀 I’m interested in data and its profound powers.
 - 🌱 I’m currently learning HRL
 - 📫 How to reach me through my linkedin account - www.linkedin.com/in/brijesh-shukla-7b31a8330
--    More Active on Kaggle : https://www.kaggle.com/binnyshukla
+  
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: There is more data than people .
 
